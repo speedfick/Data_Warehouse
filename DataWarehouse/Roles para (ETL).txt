@@ -1,0 +1,16 @@
+Valores Roles:
+
+Remover valores nulos
+
+Id- Integers - Removi a coluna dos id's
+Idade - Integers (0<=100)
+Sexo - String (F ou M)
+Região - String (Aldeia ou Cidade ou Vila)
+Casado - String (Sim ou Não)
+Filhos - Integers (0<=50)
+Carro - String (Sim ou Não)
+Conta Prazo - String (Sim ou Não)
+Conta Ordem - String (Sim ou Não)
+Crédito Habitação - String (Sim ou Não)
+Compra Campanha Anterior - String (Sim ou Não)
+

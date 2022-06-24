@@ -1,0 +1,12 @@
+Depois das funções de limpeza em python, dando origem aos 
+excel's na pasta 'AfterETL' foi feita novamente uma 
+filtragem aos excels, elimando dados duplicados e editando 
+os excel's demodo a que os dados possam ser introduzidos
+no modelo dimensional. 
+
+
+So ultizamos 50 registos
+
+O nosso esquema em estrela é composto por 9 dimensões
+e 1 uma tabela de factos, temos um nivel de granularidade de 3
+(Genero->Cliente->Campanha)
